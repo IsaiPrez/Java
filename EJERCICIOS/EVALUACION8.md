@@ -19,8 +19,6 @@ String cadena = "hola MUNDO";
 System.out.println(cadena.toLowerCase());
     
     a. hola mundo
-    b. HOLA MUNDO
-    c. HOLA mundo
     
 3. De las siguientes dos líneas de código, ¿Cuál será el resultado de aplicar ese
 método? (Valor 1 punto)
@@ -29,9 +27,7 @@ String cadena = "hola MUNDO";
 
 System.out.println(cadena.toUpperCase());
 
-      a. hola mundo
       b. HOLA MUNDO
-      c. HOLA mundo
       
 4. De las siguientes dos líneas de código, ¿Cuál será el resultado de aplicar ese
 método? (Valor 1 punto)
@@ -41,8 +37,6 @@ String cadena = new String("Hola mundo");
 System.out.println("El tamaño de " + cadena + " es de " + cadena.length() + "caracteres");
 
       a. El tamaño de Hola mundo es de 10 caracteres
-      b. El tamaño de Cadena es de 10 caracteres
-      c. El tamaño de Hola mundo es de 9 caracteres
       
 5. Crea el código en java considerando las siguientes instrucciones: (Valor 3 puntos)
 
