@@ -142,6 +142,8 @@ c. Escribe la salida.
 
                 Salida:
                 70.97
+                
+    ![image](https://user-images.githubusercontent.com/101481084/185814844-8020be91-fdf5-48de-893b-00433fb543f8.png)
 
 11. Considera el código del siguiente programa escrito en Java cuyo nombre del
 archivo es Booleans.java: (Valor 2 puntos)
