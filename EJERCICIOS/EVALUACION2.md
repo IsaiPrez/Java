@@ -185,6 +185,9 @@ d. Escribe la salida.
                 Salida:
                 M
 
+![image](https://user-images.githubusercontent.com/101481084/185815657-8f98d234-d81a-4dac-80aa-2d13448c2108.png)
+
+
 13. Considera el código del siguiente programa escrito en Java cuyo nombre del
 archivo es Poema.java: (Valor 2 puntos)
 
@@ -203,6 +206,9 @@ c. Escribe la salida.
 
                 Salida:
                 Aquí no suceden cosas de mayor trascendencia que las rosas.
+
+![image](https://user-images.githubusercontent.com/101481084/185814986-e4b9c51d-cc51-497f-a50c-cbc8aa3085ba.png)
+
 
 14. Considera el código del siguiente programa escrito en Java cuyo nombre del
 archivo es MiPerfil.java: (Valor 3 puntos)
