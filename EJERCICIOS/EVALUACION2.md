@@ -88,6 +88,9 @@ c. Escribe la salida.
       Salida:
       James Gosling
       1995
+      
+   ![image](https://user-images.githubusercontent.com/101481084/185814325-2fe14752-cf16-408b-aef1-488ae026c817.png)
+
 
 9. Supón que tienes un programa llamado ContComentarios.java y dentro de este
 tenemos el siguiente código definido: (Valor 2 puntos)
@@ -115,6 +118,9 @@ c. Escribe la salida.
 
       Salida:
       6
+
+![image](https://user-images.githubusercontent.com/101481084/185814599-63509f85-2c8f-4418-8d7a-b3e3ef3d5f91.png)
+
 
 10. Considera el código del siguiente programa escrito en Java cuyo nombre del
 archivo es CuotaMercado.java: (Valor 2 puntos)
