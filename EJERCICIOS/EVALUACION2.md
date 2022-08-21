@@ -248,3 +248,7 @@ g. Escribe la salida.
               500000.01
               n
               true
+              
+              
+   ![image](https://user-images.githubusercontent.com/101481084/185816244-e4950de1-fe6c-4582-b093-8abf81a5d050.png)
+
