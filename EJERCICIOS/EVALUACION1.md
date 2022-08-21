@@ -112,6 +112,8 @@ public class LasEscondidas {
 
           "Uno..."
           "¡Listos o no, aquí voy!"
+          
+![image](https://user-images.githubusercontent.com/101481084/185814072-a2dc2ba6-7b3f-427d-b52d-a6388f1b2e74.png)
 
 
 9. Supón que el siguiente código pertenece al programa Timeline.java el cual tiene
