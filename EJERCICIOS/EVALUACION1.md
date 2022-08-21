@@ -86,6 +86,8 @@ Mi_Nombre!” donde “Mi_Nombre” sea tú nombre. (Valor 2 punto)
 Salida:
 ¡Hola  ́nombre_del_programador ́!!
 
+![image](https://user-images.githubusercontent.com/101481084/185813943-aa7fcbab-d2d9-44b1-bbed-86299254d590.png)
+
 
 8. Dada la clase con método main() LasEscondidas, que pertenece a un programa
 que se llama LasEscondidas.java. (Valor 2 puntos)
