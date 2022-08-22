@@ -120,3 +120,6 @@ Salida:
 
           true
           Le di a cada amigo 250.25...
+          
+![image](https://user-images.githubusercontent.com/101481084/185818138-d6065aa1-1c38-4478-bd83-5a13ea58b31c.png)
+          
