@@ -31,6 +31,9 @@ Salida:
             ¡El valor del artículo es alto!
             Pedido no listo
 
+![image](https://user-images.githubusercontent.com/101481084/185821792-f9638a5e-d16a-4a09-9aa7-3f05778cefb9.png)
+
+
 2. Realiza un programa en java que imprima los primeros 15 elementos de alguna de
 las siguientes series haciendo uso necesariamente de las sentencias de control:
 (Valor 5 puntos)
