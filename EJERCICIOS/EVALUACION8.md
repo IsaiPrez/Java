@@ -77,11 +77,11 @@ System.out.println("El tamaño de " + cadena + " es de " + cadena.length() + "ca
 
 
                  if (edad>=18); {
-                    System.println("Tu nombre es " + Name + ", tienes " + Edad + " y eres mayor de edad.");
+                    System.out.println("Tu nombre es " + Name + ", tienes " + Edad + " y eres mayor de edad.");
                  }
                     {
                         else 
-                        System.out.println("Tu nombre es " + Name + ", tienes " + Edad + " y eres menor de edad.")
+                        System.out.println("Tu nombre es " + Name + ", tienes " + Edad + " y eres menor de edad.");
                     }
 
 
