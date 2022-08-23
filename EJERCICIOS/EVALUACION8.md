@@ -61,4 +61,31 @@ System.out.println("El tamaño de " + cadena + " es de " + cadena.length() + "ca
     h. Finalmente, imprimir el mensaje Tu nombre tiene “Número de caracteres”
     caracteres.
     
-        tu codigo aqui
+    
+            import java.util.Scanner;
+         public class Datos {
+             public static void (String[]args) {
+             Scanner in= new Scanner (System.in);
+
+             String Name=" ";
+             int Edad="0";
+
+             System.out.println("Ingresa tu nombre completo");
+             Name=in.nextln();
+             System.out.println("Ahora, ingresa tu edad.");
+             Edad=in.nextint();
+
+
+                 if (edad>=18); {
+                    System.println("Tu nombre es " + Name + ", tienes " + Edad + " y eres mayor de edad.");
+                 }
+                    {
+                        else 
+                        System.out.println("Tu nombre es " + Name + ", tienes " + Edad + " y eres menor de edad.")
+                    }
+
+
+
+         }
+
+         }
