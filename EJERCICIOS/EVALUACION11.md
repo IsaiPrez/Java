@@ -1,0 +1,15 @@
+## EJERCICIO 1
+Crear una ventana de 1024 píxeles por 800 píxeles. Luego no permitir que el operador modifique el tamaño de la ventana. Sabiendo que hacemos visible al JFrame llamando la método setVisible pasando el valor true, existe otro método llamado setResizable que también requiere como parámetro un valor true o false. 
+
+## EJERCICIO 2
+
+![imagen](https://user-images.githubusercontent.com/91554777/184280769-d6a4b54f-7c99-4649-930b-184d4bf26db8.png)
+
+## EJERCICIO 3
+
+Elabora una ventana que simule el bloc de notas, con sus menus
+
+## EJERCICIO 4
+
+![imagen](https://user-images.githubusercontent.com/91554777/184458720-b8aebe63-6114-451c-b4eb-059227653d64.png)
+
