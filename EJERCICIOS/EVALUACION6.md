@@ -19,6 +19,8 @@ clara, según sea el caso.
 
 ![image](https://user-images.githubusercontent.com/91554777/176980202-f705e695-3175-47eb-8e54-5c2cfd5ae148.png)
 
+En la parte superior, hace menciòn de "Elemento". Y en la parte inferior, va la parte de "Inferior".
+
 3. Tomando el siguiente arreglo, contesta las siguientes preguntas: (Valor 2 puntos)
 
 ![image](https://user-images.githubusercontent.com/91554777/176980222-c9ac9e57-a50d-4329-9db6-b2b1c02aeae4.png)
