@@ -14,19 +14,13 @@ breve y clara.
 2. ¿Cual de las siguientes oraciones es correcta acerca del default dentro de la
 estructura switch - case? (Valor 1)
 
-      a. Se ejecuta si el resultado de la expresión no coincide con ningún caso.
-      b. El default es opcional.
       c. Todas las anteriores.
       
 3. ¿Cuál es una afirmación incorrecta de la estructura switch – case? (Valor 1)
 
         a. La instrucción switch no nos permite reemplazar varias construcciones
         if-else.
-        b. Los tipos de datos que puede evaluar un switch - case son short, int, byte o
-        char.
-        c. El valor para un case debe ser del mismo tipo de datos que la variable en el
-        switch.
-        
+                
 4. ¿Qué líneas del siguiente código tienen algún error? (Valor 2)
 
 ![image](https://user-images.githubusercontent.com/91554777/176980099-2bf4ede3-0c22-49af-9bc5-0d2f09f81976.png)
