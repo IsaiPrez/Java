@@ -42,7 +42,14 @@ las siguientes series haciendo uso necesariamente de las sentencias de control:
 
 1, 3, 5, 7, 9, 11, 13, 15, 17, .... así sucesivamente.
 
+![image](https://user-images.githubusercontent.com/101481084/188256921-3609f062-bd29-4345-86d1-29b8341d8389.png)
+
+
 ● Serie de Fibonacci
 
 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, ... así sucesivamente.
+
+![image](https://user-images.githubusercontent.com/101481084/188256884-a354bef8-9375-4747-9de5-8fc2779b8c3f.png)
+
+
 
