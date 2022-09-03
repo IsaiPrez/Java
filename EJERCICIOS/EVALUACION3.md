@@ -9,28 +9,19 @@ clara, según sea el caso.
 
 1. La expresión 5 != 6 , ¿qué valor arrojará? (Valor 1 punto)
 
-          a. 6
-          b. false
           c. true
-          d. 5
 
 2. ¿Qué hace el siguiente código? (Valor 1 punto)
 System.out.println(8 <= 8);
 
-          a. Imprime false.
           b. Imprime true.
-          c. Imprime 8.
-          d. Imprime 0.
 
 3. ¿Cómo podríamos obtener un resultado de 10, dada la siguiente variable? (Valor 1
 punto)
 
 double a = 2;
 
-          a. a/2
           b. a*5
-          c. a - 12
-          d. a % 10
 
 
 4. ¿Cuál es la mejor manera de saber si las siguientes dos cadenas son iguales?
@@ -41,49 +32,32 @@ String username1 = "teracoder";
 String username2 = "gigacoder";
 
           a. username1 == username2
-          b. System.out.println(username1)
-          c. username1.isEqualto(username2)
-          d. username1.equals(username2)
-
 
 5. ¿Qué operador se puede usar para concatenar dos strings? (Valor 1 punto)
 
-          a. *
-          b. .equals()
           c. +
-          d. -
 
 
 6. ¿Hay algún error en la siguiente declaración en Java? (Valor 1 punto)
 
 int status = 7 < 8;
 
-          a. Sí, int debería se char.
           b. Sí, int debería ser boolean.
-          c. Sí, no debería de haber un punto y como.
-          d. No hay error.
 
 7. ¿Cuál es el resultado de la siguiente concatenación de cadenas? (Valor 1 punto)
 
 "Son las " + 5 + "pm"
 
-          a. "Son las pm"
-          b. Error
           c. "Son las 5pm" ---
-          d. 11
-
-
+          
 8. Después de ejecutar el siguiente código, ¿cuál será el valor de la variable
 endpoint? (Valor 1 punto)
 
 int endpoint = 11 % 3;
 
-          a. 1
-          b. 11
+   
           c. 2.66
-          d. 2
-          e. 11
-
+   
 
 9. Supón que intentamos construir algunas de las funciones de una cuenta bancaria.
 Considera el siguiente código (Valor 2 puntos)
