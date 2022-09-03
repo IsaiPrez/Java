@@ -10,7 +10,6 @@ clara, según sea el caso.
 1. Java es un lenguaje compilable, lo que significa que el código que escribimos es
 traducido a un lenguaje que la computadora entiende. (Valor 1 punto)
 
-        a. Falso
         b. Cierto
 
 2. En Java, ¿cuál es el propósito de escribir comentarios en el código? (Valor 1 punto)
@@ -55,8 +54,8 @@ public class HechosLenguaje{
   
 }
 
-          b. La línea para compilar código: javac HechosLenguaje.java
-          d. El método main(). YO DIGO QUE ES ESTA LA RESPUESTA
+  
+          d. El método main().
 
 
 6. ¿Cuál sería el nombre del archivo si contuviera el siguiente código? (Valor 1 punto)
@@ -72,8 +71,6 @@ public class HolaMundo{
 }
 
           a. HolaMundo.java
-          b. No hay restricciones en el nombre del archivo en Java.
-          c. HolaMundo.class
 
 7. Completa la clase HolaTu del programa HolaTu.java, para que imprima “¡Hola
 Mi_Nombre!” donde “Mi_Nombre” sea tú nombre. (Valor 2 punto)
